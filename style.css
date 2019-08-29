@@ -129,6 +129,15 @@ footer {
   text-align: center;
 }
 
+.social-media {
+  display: flex;
+  justify-content: center;
+}
+
+.social-media a {
+  padding: 8px;
+}
+
 .copyright {
   padding: 20px 0;
 }
